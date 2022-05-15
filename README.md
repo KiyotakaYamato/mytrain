@@ -1,0 +1,2 @@
+# mytrain
+my git training
